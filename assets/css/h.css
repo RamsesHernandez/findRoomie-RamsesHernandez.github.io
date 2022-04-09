@@ -87,7 +87,6 @@ footer {
 }
 
 #navbarNav {
-  padding-left: 250px;
   place-content: center;
 }
 
@@ -203,7 +202,7 @@ h5 {
   width: 20%;
   margin-left: 10px;
   margin-right: 10px;
-  display: none;
+  display: none; 
 }
 
 #slLeft,
@@ -242,12 +241,12 @@ h5 {
 .card:hover {
   box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4);
   transform: translateY(-3%);
-}
+} 
 
 .cardCard img {
   width: 100%;
   height: 210px;
-}
+} 
 
 .card-text {
   height: 67%;
